@@ -5,7 +5,6 @@
 [![GitHub followers](https://img.shields.io/github/followers/hugohsk99?label=Follow&style=social)](https://github.com/Hugohsk99)
 [![Gmail Badge](https://img.shields.io/badge/-hugohsk99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:sakshamtaneja7861@gmail.com)
 ------- 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## 🧐 About
 - 🏄‍ Information technology academic who is looking for a stable career in the field
@@ -29,13 +28,6 @@ Estudando na **Universidade de Vassouras**<br/>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 </p>
 <hr>
-
-### Work experience 👔
-| Job Position   | Company           | Field                                      | Work Period                |
-|----------------|-------------------|--------------------------------------------|----------------------------|
-| **Inter**      | **DMS Logistics** | **junior programmer**                                | **05.10.2022 — until now** |
-| Store Operator | Lojas Leader      | customer service,<br/> sales and operation | 05.08.2021 — 06.10.2022    |
-
 
 ## **GitHub Estatísticas**
  <a href="https://github.com/hugorose/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hugorose&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> 
