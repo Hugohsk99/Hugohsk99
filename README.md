@@ -44,7 +44,7 @@ Estudando na **Universidade de Vassouras**<br/>
  <a href="https://github.com/hugorose/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugorose&layout=compact&theme=buefy&hide_border=true" /></a>
 
 [website]: https://codedev.ga/
-[twitter]: https://twitter.com/hugohsk
+[twitter]: https://twitter.com/hugohsk99
 [youtube]: https://www.youtube.com/channel/UCN3oyldssQyAUAz5zz8Iy5A
 [instagram]: https://www.instagram.com/hugohsk99/
 [linkedin]: https://www.linkedin.com/in/hugorose/
