@@ -1,8 +1,8 @@
 <img src="images/banner.png" title="👋"/>
 # Hugo Santana👨‍💻
 
-[![Twitter Badge](https://img.shields.io/badge/-@hugohsk99-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Hugohsk99)](https://twitter.com/Hugohsk99) [![Linkedin Badge](https://img.shields.io/badge/-hugorose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/hugorose) [![Medium Badge](https://img.shields.io/badge/-@hugohsk-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://www.linkedin.com/in/hugorose)](https://medium.com/@hugohsk/)
-[![GitHub followers](https://img.shields.io/github/followers/hugohsk99?label=Follow&style=social)](https://github.com/Hugohsk99)
+[![Twitter Badge](https://img.shields.io/badge/-@hugohsk99-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Hugorose)](https://twitter.com/Hugorose) [![Linkedin Badge](https://img.shields.io/badge/-hugorose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanejasaksham/)](https://www.linkedin.com/in/hugorose) [![Medium Badge](https://img.shields.io/badge/-@hugohsk-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://www.linkedin.com/in/hugorose)](https://medium.com/@hugohsk/)
+[![GitHub followers](https://img.shields.io/github/followers/hugorose?label=Follow&style=social)](https://github.com/Hugohsk99)
 [![Gmail Badge](https://img.shields.io/badge/-hugohsk99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sakshamtaneja7861@gmail.com)](mailto:sakshamtaneja7861@gmail.com)
 ------- 
 
